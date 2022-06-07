@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathen
 - 👀 I’m interested in Software Engineering, specifically Video game orientated
-- 🌱 I’m currently learning my bachelor of Computer Science
+- 🌱 I’m currently Studying my bachelor of Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/DABIGFISH_
 
